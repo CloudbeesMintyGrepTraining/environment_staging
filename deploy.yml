@@ -32,7 +32,7 @@ spec:
       serviceAccountName: cjoc
       containers:
       - name: cloudbeesmintygreptraining
-        image: gcr.io/core-workshop/helloworld-nodejs:cloudbeesmintygreptraining-4
+        image: gcr.io/core-workshop/helloworld-nodejs:cloudbeesmintygreptraining-5
         resources:
           requests:
             memory: "100Mi"
